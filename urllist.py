@@ -1,7 +1,3 @@
-from cmath import log
-from click import echo
-from requests import URLRequired
-
 URL_LIST = {
     "eth": {
         "url": "https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
