@@ -1,5 +1,5 @@
 URL_LIST = {
-    "eth": {
+    "ETH": {
         "url": "https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
         "payload": {
             "method": "echo",
@@ -8,7 +8,7 @@ URL_LIST = {
             "id": 0,
         },
     },
-    "bsc": {
+    "BSC": {
         "url": "https://api.bscscan.com/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
         "payload": {
             "method": "echo",
@@ -17,7 +17,7 @@ URL_LIST = {
             "id": 0,
         },
     },
-    "polygon": {
+    "Polygon": {
         "url": "https://api.polygonscan.com/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
         "payload": {
             "method": "echo",
@@ -26,7 +26,7 @@ URL_LIST = {
             "id": 0,
         },
     },
-    "fantom": {
+    "Fantom": {
         "url": "https://api.ftmscan.com/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
         "payload": {
             "method": "echo",
@@ -35,7 +35,7 @@ URL_LIST = {
             "id": 0,
         },
     },
-    "avax": {
+    "Avax": {
         "url": "https://api.snowtrace.io/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken",
         "payload": {
             "method": "echo",
@@ -44,7 +44,7 @@ URL_LIST = {
             "id": 0,
         },
     },
-    "solana": {
+    "Solana": {
         "url": "https://public-api.solscan.io/block/last?limit=1",
         "payload": {},
     },
