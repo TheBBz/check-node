@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+check-node/lib64
+check-node/pyvenv.cfg
+check-node/bin/activate
+check-node/bin/activate.csh
+check-node/bin/activate.fish
+check-node/bin/Activate.ps1
+check-node/bin/base58
+check-node/bin/httpx
+check-node/bin/jsonschema
+check-node/bin/netaddr
+check-node/bin/normalizer
+check-node/bin/pip
+check-node/bin/pip3
+check-node/bin/pip3.10
+check-node/bin/python
+check-node/bin/python3
+check-node/bin/python3.10
