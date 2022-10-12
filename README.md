@@ -4,10 +4,17 @@ Blockchain node checker, connects to the node using web3.py or solanapy, fetches
 Blockchains/protocols supported:
 
 -BTC.
+
 -ETH: Mainnet, Goerli, Sepolia.
+
 -BSC: Mainnet, Testnet.
+
 -Polygon: Mainnet, Mumbai.
+
 -Avax: C-Chain.
+
 -Solana: Mainnet.
+
 -Fantom: Mainnet.
+
 -Near: Mainnet.
